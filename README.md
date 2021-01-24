@@ -25,7 +25,7 @@ and then open preview
 
 About Preview App which is built-in macOS, there is NO feature to open the img which is empty.
 
-[How do I start a new blank image page in Preview? - Ask Different](https://apple.stackexchange.com/a/364924)
+- > [How do I start a new blank image page in Preview? - Ask Different](https://apple.stackexchange.com/a/364924)
 
 In this workflow, empty img would be created with buit-in php lib and then open this img with Preview App.
 
