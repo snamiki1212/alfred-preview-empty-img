@@ -41,3 +41,7 @@ default:
   height: 1200
   file_name: result.png
 ```
+
+## LISENCE
+
+MIT
