@@ -2,13 +2,15 @@
 
 Open empty img file with Preview App buit-in macOS.
 
-## Why should we need this workflow?
+## Usage
 
-About Preview App which is built-in macOS, there is NO feature to open the img which is empty.
+Input in Alfred
 
-[How do I start a new blank image page in Preview? - Ask Different](https://apple.stackexchange.com/a/364924)
+<img width="684" alt="alfred-img" src="https://user-images.githubusercontent.com/26793088/105624630-2df0b180-5dd8-11eb-9798-f06ee862ed44.png">
 
-In this workflow, empty img would be created with buit-in php lib and then open this img with Preview App.
+and then open preview
+
+<img width="555" alt="Screen Shot 2021-01-24 at 0 11 12" src="https://user-images.githubusercontent.com/26793088/105624708-b2dbcb00-5dd8-11eb-9d84-9e22dc912cb9.png">
 
 ## Installation
 
@@ -19,15 +21,13 @@ In this workflow, empty img would be created with buit-in php lib and then open 
 2. DL `***.alfredworkflow` file
 3. Double click this file
 
-## Usage
+## Why should we need this workflow?
 
-Input in Alfred
+About Preview App which is built-in macOS, there is NO feature to open the img which is empty.
 
-<img width="684" alt="alfred-img" src="https://user-images.githubusercontent.com/26793088/105624630-2df0b180-5dd8-11eb-9798-f06ee862ed44.png">
+[How do I start a new blank image page in Preview? - Ask Different](https://apple.stackexchange.com/a/364924)
 
-and then open preview
-
-<img width="555" alt="Screen Shot 2021-01-24 at 0 11 12" src="https://user-images.githubusercontent.com/26793088/105624708-b2dbcb00-5dd8-11eb-9d84-9e22dc912cb9.png">
+In this workflow, empty img would be created with buit-in php lib and then open this img with Preview App.
 
 ## Options
 
