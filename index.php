@@ -1,8 +1,8 @@
 #!/usr/bin/php -f
 
 <?php
-$width = is_null($argv[1]) ? 500 : $argv[1];
-$height = is_null($argv[2]) ? 500 : $argv[2];
+$width = is_null($argv[1]) ? 1200 : $argv[1];
+$height = is_null($argv[2]) ? 1200 : $argv[2];
 $file_name = is_null($argv[3]) ? "result.png" : $argv[3];
 
 $image = imagecreate($width, $height);
