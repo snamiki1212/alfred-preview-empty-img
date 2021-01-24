@@ -4,6 +4,8 @@ Open empty img file with Preview App buit-in macOS.
 
 ## Usage
 
+![video2](https://user-images.githubusercontent.com/26793088/105625565-051fea80-5ddf-11eb-8c5c-8cfa658eddb5.gif)
+
 Input in Alfred
 
 <img width="684" alt="alfred-img" src="https://user-images.githubusercontent.com/26793088/105624630-2df0b180-5dd8-11eb-9798-f06ee862ed44.png">
@@ -21,7 +23,7 @@ and then open preview
 2. DL `***.alfredworkflow` file
 3. Double click this file
 
-## Why should we need this workflow?
+## Why need this workflow?
 
 About Preview App which is built-in macOS, there is NO feature to open the img which is empty.
 
